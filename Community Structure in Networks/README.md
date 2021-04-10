@@ -10,7 +10,7 @@ The program receives two command-line arguments. The 1st is an input filename, a
 output filename. The input of your program is a network (a graph), and the output is a list
 of groups (the division).
 
-The input and output les are both binary les consisting only of integers.
+The input and output files are both binary files consisting only of integers.
 
 Input File:
 
